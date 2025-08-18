@@ -16,7 +16,7 @@ navLinks.forEach(link => {
 // Typed.js animation
 var typed = new Typed("#typed", {
   strings: ["Frontend Developer", "Problem Solver", "React Developer"],
-  typeSpeed: 80,    // typing speed
-  backSpeed: 50,    // backspacing speed
-  loop: true        // keeps looping
+  typeSpeed: 80,    
+  backSpeed: 50,    
+  loop: true        
 });
