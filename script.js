@@ -27,19 +27,19 @@ var typed = new Typed("#typed", {
 
 // ===== MAKE SOCIAL SVG BUTTONS CLICKABLE =====
 document.getElementById("facebook_btn").addEventListener("click", () => {
-  window.open("https://facebook.com/yourprofile", "_blank");
+  window.open("https://facebook.com/example.user123", "_blank");
 });
 
 document.getElementById("whatsApp_btn").addEventListener("click", () => {
-  window.open("https://wa.me/9548837949", "_blank"); 
+  window.open("https://wa.me/1234567890", "_blank"); 
 });
 
 document.getElementById("instagram_btn").addEventListener("click", () => {
-  window.open("https://instagram.com/yourprofile", "_blank");
+  window.open("https://instagram.com/example_profile", "_blank");
 });
 
 document.getElementById("linkedin_btn").addEventListener("click", () => {
-  window.open("https://linkedin.com/in/yourprofile", "_blank");
+  window.open("https://linkedin.com/in/example-user-123", "_blank");
 });
 
 
